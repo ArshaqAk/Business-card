@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <>
-      <div className='text-center text-light m-4'>
+      <div className='text-center text-light m-4 p-4'>
           <h1>Adacode</h1>
           <hr />
       </div>
